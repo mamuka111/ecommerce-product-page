@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ecommerce-product-page/static/css/main.0d7c4d70.css",
-    "main.js": "/ecommerce-product-page/static/js/main.1cf7ba00.js",
+    "main.css": "/ecommerce-product-page/static/css/main.bb8b4524.css",
+    "main.js": "/ecommerce-product-page/static/js/main.e9ca8a02.js",
     "static/media/shoe2-big.jpg": "/ecommerce-product-page/static/media/shoe2-big.c8bb0aaccecdebb16596.jpg",
     "static/media/shoe1-big.jpg": "/ecommerce-product-page/static/media/shoe1-big.520cc50bd13955f55cb2.jpg",
     "static/media/shoe3-big.jpg": "/ecommerce-product-page/static/media/shoe3-big.af5c71ba9ffcc0b8b54d.jpg",
     "static/media/shoe4-big.jpg": "/ecommerce-product-page/static/media/shoe4-big.9962862ef3eff6d65e5b.jpg",
     "static/media/pfp.png": "/ecommerce-product-page/static/media/pfp.f8e42ea25b117a8be612.png",
     "index.html": "/ecommerce-product-page/index.html",
-    "main.0d7c4d70.css.map": "/ecommerce-product-page/static/css/main.0d7c4d70.css.map",
-    "main.1cf7ba00.js.map": "/ecommerce-product-page/static/js/main.1cf7ba00.js.map"
+    "main.bb8b4524.css.map": "/ecommerce-product-page/static/css/main.bb8b4524.css.map",
+    "main.e9ca8a02.js.map": "/ecommerce-product-page/static/js/main.e9ca8a02.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d7c4d70.css",
-    "static/js/main.1cf7ba00.js"
+    "static/css/main.bb8b4524.css",
+    "static/js/main.e9ca8a02.js"
   ]
 }
